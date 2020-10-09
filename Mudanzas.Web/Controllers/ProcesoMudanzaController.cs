@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Mudanzas.Core.Interfaces;
+using Mudanzas.Domain.Entities;
 using Mudanzas.Web.Dto;
 
 namespace Mudanzas.Web.Controllers

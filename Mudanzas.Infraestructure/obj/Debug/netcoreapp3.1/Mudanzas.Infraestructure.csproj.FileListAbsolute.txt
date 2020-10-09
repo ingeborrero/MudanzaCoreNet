@@ -1,0 +1,9 @@
+C:\JorgeBorrero\Personal\Tech_and_Solve\mudanzas-webapi\Mudanzas.Infraestructure\obj\Debug\netcoreapp3.1\Mudanzas.Infraestructure.csprojAssemblyReference.cache
+C:\JorgeBorrero\Personal\Tech_and_Solve\mudanzas-webapi\Mudanzas.Infraestructure\obj\Debug\netcoreapp3.1\Mudanzas.Infraestructure.AssemblyInfoInputs.cache
+C:\JorgeBorrero\Personal\Tech_and_Solve\mudanzas-webapi\Mudanzas.Infraestructure\obj\Debug\netcoreapp3.1\Mudanzas.Infraestructure.AssemblyInfo.cs
+C:\JorgeBorrero\Personal\Tech_and_Solve\mudanzas-webapi\Mudanzas.Infraestructure\obj\Debug\netcoreapp3.1\Mudanzas.Infraestructure.csproj.CoreCompileInputs.cache
+C:\JorgeBorrero\Personal\Tech_and_Solve\mudanzas-webapi\Mudanzas.Infraestructure\bin\Debug\netcoreapp3.1\Mudanzas.Infraestructure.deps.json
+C:\JorgeBorrero\Personal\Tech_and_Solve\mudanzas-webapi\Mudanzas.Infraestructure\bin\Debug\netcoreapp3.1\Mudanzas.Infraestructure.dll
+C:\JorgeBorrero\Personal\Tech_and_Solve\mudanzas-webapi\Mudanzas.Infraestructure\bin\Debug\netcoreapp3.1\Mudanzas.Infraestructure.pdb
+C:\JorgeBorrero\Personal\Tech_and_Solve\mudanzas-webapi\Mudanzas.Infraestructure\obj\Debug\netcoreapp3.1\Mudanzas.Infraestructure.dll
+C:\JorgeBorrero\Personal\Tech_and_Solve\mudanzas-webapi\Mudanzas.Infraestructure\obj\Debug\netcoreapp3.1\Mudanzas.Infraestructure.pdb
